@@ -1,6 +1,8 @@
 # glb_viewer_exporter
 Loads glb or gltf files by dragging into the web browser and exports obj formats with split resources
 
+Test it live in: https://glb-viewer-exporter.vercel.app/
+
 To load a gltf scene you can drag the entire folder that contains the file, textures, bin, etc.
 For single embedded files, just drag and drop the file.
 
